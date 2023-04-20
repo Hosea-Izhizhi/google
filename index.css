@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    font-size: 80px;
+    color: blue;
+}
+input{
+    font-size: 20px;
+    border-radius: 20px;
+    text-indent: 10px;
+    width: 500px;
+    height: 40px;
+    border: 1px solid #000;
+
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
